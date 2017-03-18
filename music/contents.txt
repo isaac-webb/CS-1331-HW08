@@ -1,0 +1,2 @@
+files: samson.txt, leave.txt, broken_hearted_hoover_fixer_sucker_guy.txt, missing_file.txt
+dirs: driving, gym

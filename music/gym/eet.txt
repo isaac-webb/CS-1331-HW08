@@ -1,0 +1,3 @@
+name: Eet
+artist: Regina Spektor
+genre: indie pop

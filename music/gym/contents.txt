@@ -1,0 +1,2 @@
+files: sabatoge.txt, recovery.txt, eet.txt
+dirs: running
